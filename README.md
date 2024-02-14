@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/darleisonrodrigues">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleisonrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleisonrodrigues&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleisonrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleisonrodrigues&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -22,3 +22,4 @@
   <a href="https://www.linkedin.com/in/darleison-rodrigues-1b78b9145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5585991943274&text=Ol%C3%A1!%20vim%20atrav%C3%A9s%20do%20seu%20perfil%20do%20Github." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
