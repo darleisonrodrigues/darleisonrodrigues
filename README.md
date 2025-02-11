@@ -26,10 +26,14 @@ Sou **Darleison Rodrigues**, apaixonado por tecnologia, Machine Learning e Intel
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
+  <br>
+  
   <!-- Bibliotecas e Ferramentas para Dados e Machine Learning -->
-  <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
   <img align="center" alt="TensorFlow/Keras" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  
+  <br>
   
   <!-- Ferramentas de Versionamento -->
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -52,7 +56,6 @@ Sou **Darleison Rodrigues**, apaixonado por tecnologia, Machine Learning e Intel
 - **Versionamento e Colaboração:**  
   Uso avançado de **Git** e **GitHub** para controle de versões e colaboração em projetos de software.
 
-
 ---
 
 ## Perfis e Contato
@@ -67,7 +70,7 @@ Sou **Darleison Rodrigues**, apaixonado por tecnologia, Machine Learning e Intel
   <a href="https://www.linkedin.com/in/darleison-rodrigues-1b78b9145/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5585991943274&text=Ol%C3%A1!%20vim%20atrav%C3%A9s%20do%20seu%20perfil%20do%20Github." target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5585996380305&text=Ol%C3%A1!%20vim%20atrav%C3%A9s%20do%20seu%20perfil%20do%20Github." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
