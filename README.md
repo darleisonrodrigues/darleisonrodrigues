@@ -1,86 +1,69 @@
-# Olá, seja bem-vindo(a) ao meu perfil! 😀
+<h1 align="center">Olá a todos 👋, eu sou Darleison Rodrigues</h1>
 
-Sou **Darleison Rodrigues**, apaixonado por tecnologia, Machine Learning e Inteligência Artificial. Aqui você encontra um pouco dos meus projetos, habilidades e experiências com Python, análise de dados, criação de agentes inteligentes, redes neurais e muito mais!
-
----
-
-## Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/darleisonrodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleisonrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/darleisonrodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleisonrodrigues&layout=compact&langs_count=6&theme=tokyonight" alt="Top Linguagens" />
-  </a>
+<div align="center">
+  <!-- Banner: substitua o link abaixo pelo seu, se desejar -->
+  <img src="https://github.com/darleisonrodrigues/darleisonrodrigues/blob/main/banner.png" alt="Banner">
 </div>
 
----
+<h3 align="center">
+  Sou apaixonado por Machine Learning, Inteligência Artificial e Desenvolvimento de Software!<br>
+  Atualmente, estudo e desenvolvo projetos focados em Python, análise de dados, redes neurais e criação de agentes inteligentes.
+</h3>
 
-## Tecnologias e Ferramentas
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/darleisonrodrigues/darleisonrodrigues/main/coding.gif">
 
-<div style="display: inline-block">
-  <!-- Linguagens e Frameworks -->
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <br>
-  
-  <!-- Bibliotecas e Ferramentas para Dados e Machine Learning -->
-  <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
-  <img align="center" alt="TensorFlow/Keras" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  
-  <br>
-  
-  <!-- Ferramentas de Versionamento -->
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=darleisonrodrigues&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="darleisonrodrigues" />
+</p>
 
----
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/darleisonrodrigues](https://github.com/darleisonrodrigues)
+- 💬 Pergunte-me sobre **Machine Learning, Inteligência Artificial, Python e Análise de Dados**
+- 📫 Como entrar em contato: [darleison20@gmail.com](mailto:darleison20@gmail.com)
 
-## Áreas de Atuação
-
-- **Machine Learning & Inteligência Artificial:**  
-  Desenvolvimento de modelos preditivos, redes neurais e criação de agentes inteligentes para automação e soluções inovadoras.
-
-- **Análise e Ciência de Dados:**  
-  Manipulação e análise de dados utilizando Python, com bibliotecas como **Pandas** e **Numpy** para transformar dados brutos em insights valiosos.
-
-- **Desenvolvimento Web:**  
-  Criação de aplicações interativas com tecnologias web (HTML, CSS, JavaScript) integradas a back-end em Python.
-
-- **Versionamento e Colaboração:**  
-  Uso avançado de **Git** e **GitHub** para controle de versões e colaboração em projetos de software.
-
----
-
-## Perfis e Contato
-
-<div>
-  <a href="https://www.instagram.com/darleisonrodrigues" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/darleison-rodrigues-1b78b9145/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:darleison20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://www.instagram.com/darleisonrodrigues" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/darleison-rodrigues-1b78b9145/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5585996380305&text=Ol%C3%A1!%20vim%20atrav%C3%A9s%20do%20seu%20perfil%20do%20Github." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
   </a>
-</div>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darleisonrodrigues&show_icons=true&locale=pt-br" alt="Darleison Rodrigues" />
+</p>
 
-## Contribuições e Atividades
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darleisonrodrigues" alt="Streak Stats" />
+</p>
 
-Estou sempre em busca de aprender e aprimorar minhas habilidades. Convido você a colaborar em meus projetos ou a entrar em contato para trocarmos conhecimentos sobre Machine Learning, análise de dados e desenvolvimento de software.
-
----
-
-Obrigado por visitar meu perfil! Se gostou, deixe um ⭐ e compartilhe com a comunidade.
+<h3 align="left">Top Repositórios Contribuídos:</h3>
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=darleisonrodrigues&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Darleison Rodrigues" />
+</p>
