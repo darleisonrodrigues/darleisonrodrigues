@@ -1,8 +1,7 @@
 <h1 align="center">👨💻 Olá, eu sou Darleison Rodrigues</h1>
-<h3 align="center">🎓 Estudante de Inteligência Artificial | 🌱 Aspirante a Cientista de Dados</h3>
+<h3 align="center">🎓 Estudante de Inteligência Artificial Apaixonado por Dados</h3>
 
 <div align="center">
-  <img src="https://github.com/darleisonrodrigues/darleisonrodrigues/blob/main/banner.png" alt="Banner de Estudos em IA" width="80%">
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Aprendendo+Machine+Learning;Explorando+o+mundo+dos+dados;Construindo+meus+primeiros+projetos" alt="Typing SVG" />
 </div>
@@ -12,12 +11,10 @@
 ### 📚 Minha Jornada de Aprendizado
 - 🔭 **Atualmente explorando:** Fundamentos de redes neurais e pré-processamento de dados
 - 🌱 **Estudando diariamente:** Python para análise de dados e algoritmos de ML
-
+  
 ---
 
-### 🛠 Meu Toolkit de Estudos
-
-#### Habilidades em Desenvolvimento
+#### 🛠 Habilidades em Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -42,4 +39,11 @@
 </div>
 
 ---
+## 📞 Contato
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-5585996380305-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-darleison--rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Gmail](https://img.shields.io/badge/Gmail-darleisonrodrigues%40edu.unifor.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white).
 
