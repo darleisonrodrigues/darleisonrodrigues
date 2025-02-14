@@ -1,69 +1,45 @@
-<h1 align="center">Olá a todos 👋, eu sou Darleison Rodrigues</h1>
+<h1 align="center">👨💻 Olá, eu sou Darleison Rodrigues</h1>
+<h3 align="center">🎓 Estudante de Inteligência Artificial | 🌱 Aspirante a Cientista de Dados</h3>
 
 <div align="center">
-  <!-- Banner: substitua o link abaixo pelo seu, se desejar -->
-  <img src="https://github.com/darleisonrodrigues/darleisonrodrigues/blob/main/banner.png" alt="Banner">
+  <img src="https://github.com/darleisonrodrigues/darleisonrodrigues/blob/main/banner.png" alt="Banner de Estudos em IA" width="80%">
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Aprendendo+Machine+Learning;Explorando+o+mundo+dos+dados;Construindo+meus+primeiros+projetos" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  Sou apaixonado por Machine Learning, Inteligência Artificial e Desenvolvimento de Software!<br>
-  Atualmente, estudo e desenvolvo projetos focados em Python, análise de dados, redes neurais e criação de agentes inteligentes.
-</h3>
+---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/darleisonrodrigues/darleisonrodrigues/main/coding.gif">
+### 📚 Minha Jornada de Aprendizado
+- 🔭 **Atualmente explorando:** Fundamentos de redes neurais e pré-processamento de dados
+- 🌱 **Estudando diariamente:** Python para análise de dados e algoritmos de ML
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=darleisonrodrigues&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="darleisonrodrigues" />
-</p>
+---
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/darleisonrodrigues](https://github.com/darleisonrodrigues)
-- 💬 Pergunte-me sobre **Machine Learning, Inteligência Artificial, Python e Análise de Dados**
-- 📫 Como entrar em contato: [darleison20@gmail.com](mailto:darleison20@gmail.com)
+### 🛠 Meu Toolkit de Estudos
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/darleison-rodrigues-1b78b9145/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/darleisonrodrigues" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+#### Habilidades em Desenvolvimento
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-FF9F34?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darleisonrodrigues&show_icons=true&locale=pt-br" alt="Darleison Rodrigues" />
-</p>
+### 📈 Meu Progresso
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darleisonrodrigues" alt="Streak Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/darleisonrodrigues">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darleisonrodrigues&show_icons=true&theme=merko&hide=issues&count_private=true&locale=pt-br&hide_title=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darleisonrodrigues&layout=compact&theme=merko&langs_count=6&locale=pt-br&hide_title=true"/>
+  </a>
+</div>
 
-<h3 align="left">Top Repositórios Contribuídos:</h3>
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=darleisonrodrigues&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Darleison Rodrigues" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darleisonrodrigues&theme=github-compact&hide_border=true" alt="Atividade de Estudos">
+</div>
+
+---
+
