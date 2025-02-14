@@ -1,5 +1,5 @@
 <h1 align="center">👨💻 Olá, eu sou Darleison Rodrigues</h1>
-<h3 align="center">🎓 Estudante de Inteligência Artificial Apaixonado por Dados</h3>
+<h3 align="center">🎓 Estudante de Inteligência Artificial - Apaixonado por Dados</h3>
 
 <div align="center">
   <br><br>
@@ -41,9 +41,6 @@
 ---
 ## 📞 Contato
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-5585996380305-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-darleison--rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![Gmail](https://img.shields.io/badge/Gmail-darleisonrodrigues%40edu.unifor.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white).
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585996380305)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darleison-rodrigues/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darleisonrodrigues@edu.unifor.br)
