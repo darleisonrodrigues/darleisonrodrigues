@@ -1,4 +1,4 @@
-<h1 align="center">👨💻 Olá, eu sou Darleison Rodrigues</h1>
+<h1 align="center">💻 Olá, eu sou Darleison Rodrigues</h1>
 <h3 align="center">🎓 Estudante de Inteligência Artificial - Apaixonado por Dados</h3>
 
 <div align="center">
