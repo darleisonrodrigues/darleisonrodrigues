@@ -1,5 +1,5 @@
 <h1 align="center">💻 Olá, eu sou Darleison Rodrigues</h1>
-<h3 align="center">🎓 Estudante de Inteligência Artificial - Apaixonado por Dados</h3>
+<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas e Inteligência Artificial.</h3>
 
 <div align="center">
   <br><br>
@@ -9,17 +9,23 @@
 ---
 
 ### 📚 Minha Jornada de Aprendizado
-- 🔭 **Atualmente explorando:** Fundamentos de redes neurais e pré-processamento de dados
-- 🌱 **Estudando diariamente:** Python para análise de dados e algoritmos de ML
+- 🔭 **Atualmente explorando:** O Mundo do Desenvolvimento Android com Kotlin
+- 🌱 **Estudando diariamente:** Desenvolvimento Mobile com Kotlin
   
 ---
 
 #### 🛠 Habilidades em Desenvolvimento
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Room Database](https://img.shields.io/badge/Room-FF5722?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-FF9F34?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
