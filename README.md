@@ -3,7 +3,7 @@
 
 <div align="center">
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Aprendendo+Kotlin;Explorando+o+mundo+do+desenvolvimento Mobile;Construindo+meus+primeiros+projetos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Aprendendo+Kotlin;Explorando+o+mundo+do+desenvolvimento Mobile;Construindo+meus+primeiros+projetos" alt="Typing SVG"/>
 </div>
 
 ---
