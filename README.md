@@ -3,7 +3,7 @@
 
 <div align="center">
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Aprendendo+Machine+Learning;Explorando+o+mundo+dos+dados;Construindo+meus+primeiros+projetos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Aprendendo+Kotlin;Explorando+o+mundo+do+desenvolvimento Mobile;Construindo+meus+primeiros+projetos" alt="Typing SVG" />
 </div>
 
 ---
@@ -24,7 +24,6 @@
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Room Database](https://img.shields.io/badge/Room-FF5722?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
